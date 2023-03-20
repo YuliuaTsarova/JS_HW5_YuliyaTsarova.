@@ -1,1 +1,1 @@
-# JS_HW5_YuliyaTsarova.
+# JS_HW6_YuliyaTsarova.
